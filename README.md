@@ -1,7 +1,7 @@
 <div style="background-color: #000000;">
     <img src="https://raw.githubusercontent.com/stevienovak/garage/main/Web%201920%20–%201.jpg" alt="AlphaPredict_logo" width="1000">
 </div>
-
+ 
 
 
 <p align="center">
